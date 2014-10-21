@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tau",
+  "name": "Taunts!",
+  "description": "a mod that adds Garry's mod prophunt taunts into minecraft, default key is numpad_3",
+  "version": "1.7.10-1.1a",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Azhdev"],
+  "credits": "",
+  "logoFile": "assets/tau/logo.png",
+  "screenshots": [],
+  "dependencies": ['AzhdevCore']
+}
+]
